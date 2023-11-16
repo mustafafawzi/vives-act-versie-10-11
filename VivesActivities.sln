@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VivesActivities.Ui.Mvc", "VivesActivities.Ui.Mvc\VivesActivities.Ui.Mvc.csproj", "{FF8990F4-4D29-47FD-BA08-6050337F7B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8990F4-4D29-47FD-BA08-6050337F7B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8990F4-4D29-47FD-BA08-6050337F7B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8990F4-4D29-47FD-BA08-6050337F7B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8990F4-4D29-47FD-BA08-6050337F7B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69FB86ED-A042-4960-BE72-1CBB9C53CEE3}
+	EndGlobalSection
+EndGlobal
